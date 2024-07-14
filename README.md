@@ -66,6 +66,6 @@ In a single query, perform the following operations and generate a new table in 
 
 6. Which age_band and demographic values contribute the most to Retail sales?
 
-  Findings from all the above analyses are provided in the attached PDF---Datamart(codes)
+  Findings from all the above analyses are provided in the attached PDF---Datamart(solution)
 ## 📝 **CONCLUSION**
 By examining Data Mart's data, users can make informed purchasing decisions and discover new product preferences. They can gain insights into trending categories and popular products, as well as receive personalized recommendations tailored to their tastes. Identifying the most purchased items and top-selling brands helps users find popular products and spot emerging trends. This analysis engages customers by offering fresh and relevant shopping experiences. Ultimately, these data insights enhance customer satisfaction, boost Data Mart's reputation, and drive revenue growth through increased customer engagement and retention.
