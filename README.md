@@ -28,7 +28,7 @@ Sales | Int
 
 ##  📥 **DATA SOURCING & DATA CLEANING**
 The SQL-Script is provided in this repository.
-Download and **RUN** The SQL-Script to get the Tables. After, which the following Data_Cleaning activities are performed to clean the Data for smooth Analysis
+Download and **RUN** The SQL-Script(Data_mart _schema_SQL) to get the Tables. After, which the following Data_Cleaning activities are performed to clean the Data for smooth Analysis
 
 **A. Data Cleansing Steps**
 In a single query, perform the following operations and generate a new table in the data_mart schema named clean_weekly_sales:
